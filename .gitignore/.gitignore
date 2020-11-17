@@ -1,0 +1,16 @@
+# editors
+*.swp
+.idea/
+.vs/
+.vscode/
+.DS_Store
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+node_modules/
+package-lock.json # include if you are using npm - don't use both yarn and npm
+npm-debug.log
+yarn-error.log
+yarn.lock 
+.env
