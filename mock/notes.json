@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Driver",
+      "vechiclesNumber": 2,
+      "cities": ["Kansas cities MO 64106", "Beverly Hills"]
+    },
+    {
+        "title": "Load ID",
+        "vechiclesNumber": 1,
+        "cities": ["New York City MO 64106", "Beverly Hills"]
+    },
+    {
+        "title": "Driver2",
+        "vechiclesNumber": 2,
+        "cities": ["Kansas City MO 64106", "Beverly Hills"]
+    },
+    {
+        "title": "Load ID2",
+        "vechiclesNumber": 1,
+        "cities": ["New York City MO 64106", "Beverly Hills"]
+    },
+    {
+        "title": "Driver3",
+        "vechiclesNumber": 2,
+        "cities": ["Kansas City MO 64106", "Beverly Hills"]
+    },
+    {
+        "title": "Load ID3",
+        "vechiclesNumber": 1,
+        "cities": ["New York City MO 64106", "Beverly Hills"]
+    }
+]
